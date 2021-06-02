@@ -1,10 +1,10 @@
 site_name: Node-RED AI Photo Booth Workshop
 site_description: >-
   A workshop for creating an AI-infused photo booth application using Node-RED and TensorFlow.js
-site_url: https://knolleary.github.io/node-red-workshop-photobooth/
-site_author: Nick O'Leary
-repo_name: knolleary/node-red-workshop-photobooth
-repo_url: https://github.com/knolleary/node-red-workshop-photobooth
+site_url: https://johnwalicki.github.io/node-red-workshop-photobooth/
+site_author: John Walicki
+repo_name: johnwalicki/node-red-workshop-photobooth
+repo_url: https://github.com/johnwalicki/node-red-workshop-photobooth
 edit_uri: edit/main/docs/
 theme:
     name: material
