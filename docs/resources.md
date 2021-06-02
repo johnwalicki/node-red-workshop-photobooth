@@ -6,10 +6,10 @@ and TensorFlow.js.
 ## Node-RED Resources
 
  - You can find a complete copy of the Node-RED project this workshop creates
-   [here](https://github.com/knolleary/node-red-workshop-photobooth-project){:target="blank"}.
+   [here](https://github.com/johnwalicki/node-red-workshop-photobooth-project).
 
 
-     This includes the [flow file](https://github.com/knolleary/node-red-workshop-photobooth-project/blob/main/flows.json){:target="blank"}
+     This includes the [flow file](https://github.com/johnwalicki/node-red-workshop-photobooth-project/blob/main/flows.json)
      you can import if you want to skip to the end.
 
  - Alternatively, you can access the final flow from this repository [here](flow-final.md).

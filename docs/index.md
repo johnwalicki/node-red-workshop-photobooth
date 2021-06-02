@@ -24,12 +24,12 @@ next or previous section as required.
 
 ## Access to workshop material
 
-The source for this workshop is hosted on [GitHub](https://github.com/knolleary/node-red-workshop-photobooth/)
+The source for this workshop is hosted on [GitHub](https://github.com/johnwalicki/node-red-workshop-photobooth/)
 and this site is automatically generated from it. The repository also contains
 examples and other content that can be used through the workshop. You may want
 to clone the repository to your local computer so you have them readily available.
 
-You can also download a PDF version of this workshop [here](https://knolleary.net/node-red-workshop-photobooth/pdf/node-red-workshop-photobooth.pdf).
+You can also download a PDF version of this workshop [here](https://johnwalicki.net/node-red-workshop-photobooth/pdf/node-red-workshop-photobooth.pdf).
 
 ## Getting help
 
@@ -73,5 +73,3 @@ to create a containerised version of your application.
 Finally, we'll review what you have covered in this workshop and highlight a number
 of areas where the application you've created could be expanded as a follow-on
 activity.
-
-
