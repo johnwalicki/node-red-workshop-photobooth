@@ -4,17 +4,17 @@
 
 In this workshop, participants will learn how to use Node-RED to create a photo
 booth web app infused with AI through the use of TensorFlow. The workshop will step
-through getting started with Node-RED, creating the web app and then containerising
+through getting started with Node-RED, creating the web app and then containerizing
 it, ready to be deployed into the cloud or onto edge devices.
 
 ## Prerequisites
 
 This workshop requires:
 
- - A laptop/computer with a Web Cam attached
- - Node.js 12.x or 14.x
- - Git
- - Docker Desktop
+- A laptop/computer with a Web Cam attached
+- Node.js 12.x or 14.x
+- Git
+- Docker Desktop
 
 ## Navigation
 
@@ -42,11 +42,10 @@ If you need help with the workshop, join the `#openjs_world-ibm_workshops` chann
 The first part of the workshop introduces Node-RED - the low-code programming
 tool for event-driven applications. It will help you:
 
-
- - get Node-RED running on your local computer
- - enable the Projects feature
- - learn how to install additional nodes into its palette
- - create a simple application to learn how Node-RED works
+- get Node-RED running on your local computer
+- enable the Projects feature
+- learn how to install additional nodes into its palette
+- create a simple application to learn how Node-RED works
 
 If you are already familiar with Node-RED, you can skip this part.
 
@@ -66,7 +65,7 @@ You will then integrate the TensorFlow nodes into your photo booth application.
 ### [4 - Containerization](part4/)
 
 In this part, you will add a `Dockerfile` to your Node-RED project that can be used
-to create a containerised version of your application.
+to create a containerized version of your application.
 
 ### [5 - Summary and next steps](part5/)
 
