@@ -16,7 +16,7 @@ use_directory_urls: false
 plugins:
   - search
   - with-pdf:
-      cover_subtitle: NodeConf Remote 2020
+      cover_subtitle: OpenJS World 2021
       output_path: pdf/node-red-workshop-photobooth.pdf
       enabled_if_env: ENABLE_PDF_EXPORT
 markdown_extensions:
