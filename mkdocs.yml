@@ -8,11 +8,18 @@ repo_url: https://github.com/johnwalicki/node-red-workshop-photobooth
 edit_uri: edit/main/docs/
 theme:
     name: material
-    custom_dir: theme/
-    icon:
-        logo: material/school
-        repo: fontawesome/brands/github
-use_directory_urls: false
+    palette:
+      scheme: default
+      primary: black
+    font:
+      text: IBM Plex Sans
+      code: IBM Plex Mono
+    language: en
+    custom_dir: overrides
+    features:
+      - navigation.instant
+      - navigation.tracking
+use_directory_urls: true
 plugins:
   - search
   - with-pdf:
