@@ -33,7 +33,7 @@ You can also download a PDF version of this workshop [here](https://knolleary.ne
 
 ## Getting help
 
-If you need help with the workshop, join the `#workshop` channel on the [Node-RED Community slack](https://nodered.org/slack).
+If you need help with the workshop, join the `#openjs_world-ibm_workshops` channel on the [OpenJS Foundation Community slack](https://openjs-foundation.slack.com).
 
 ## Workshop Outline
 
