@@ -2,9 +2,9 @@
 
 This is the source repository for the Node-RED AI Photo Booth Workshop.
 
-To view the workshop, visit this site: [https://knolleary.net/node-red-workshop-photobooth/](https://knolleary.net/node-red-workshop-photobooth/).
+To view the workshop, visit this site: [https://johnwalicki.github.io/node-red-workshop-photobooth/](https://johnwalicki.github.io/node-red-workshop-photobooth/).
 
-A PDF version is available [here](https://knolleary.net/node-red-workshop-photobooth/pdf/node-red-workshop-photobooth.pdf)
+A PDF version is available [here](https://johnwalicki.github.io/node-red-workshop-photobooth/pdf/node-red-workshop-photobooth.pdf)
 
 ## Updating content
 
