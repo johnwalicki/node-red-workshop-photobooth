@@ -1,42 +1,23 @@
-# Containerization
+# Summary
 
-## Why create a container?
+That's all folks. If you've reached this point of the workshop, you've covered
+a lot of ground. Whether you were already familiar with Node-RED, TensorFlow,
+or if it was all new to you, we hope you've found it interesting.
 
-Up to this point in the workshop, you've been developing an application using
-Node-RED on your local device.
-
-The fact the editor and runtime are bundled together makes it very convenient
-to quickly start building applications.
-
-But that model is less suitable when you think about creating applications that
-run in production, or that need to be distributed to remote devices. You don't
-want to be using the editor to edit the application directly - you want to be
-able to develop and test your application locally and then have a controlled
-way to deploy it into your production environment.
-
-In this part of the workshop, we're going to step through the process of
-wrapping the application as a Docker container. Once the container has been
-created, it can be deployed just as you would any other container - pushing it
-to a cloud environment or down to edge devices.
+The goal for this workshop was to show how you can quickly start building
+applications using low-coding tools. While the application we've
+built today is a bit of fun, it shows how much you can achieve with very little code
+being written.
 
 ## Next Steps
 
-At the start of this workshop, you enabled the Projects feature. That gave
-you a git repository you can use to manage your application.
+Where you go next is very much up to you.
 
-In this section we are going to make some updates to the project files to help
-create a deployable container.
+If you're new to Node-RED, you can explore the [Flow Library](https://flows.nodered.org){:target="blank"}
+to see what other nodes are available and what example flows the community have shared
 
-This involves:
+If you're new to TensorFlow, you can explore the other TensorFlow nodes we mentioned and some of the
+other prebuilt models that are available. You could explore building your own model and getting that
+integrated into your Node-RED application.
 
- - [Updating the project's `package.json` file](package.md)
- - [Adding a `settings.js` file](settings.md)
- - [Adding a `Dockerfile`](dockerfile.md)
- - [Push updates to GitHub](one-more-thing.md)
-
-
-
-
-
-
-
+Check out the [resources](/resources.md) section for more useful links.

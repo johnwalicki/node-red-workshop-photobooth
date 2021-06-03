@@ -53,11 +53,5 @@ nav:
     - TensorFlow in Node-RED: part3/adding-tf.md
     - Displaying detected objects: part3/display-objects.md
     - Selecting objects to display: part3/select-objects.md
-  - 4 - Containerization:
-    - Introduction: part4/README.md
-    - Package file: part4/package.md
-    - Settings file: part4/settings.md
-    - Dockerfile: part4/dockerfile.md
-    - Finishing the project: part4/one-more-thing.md
-  - 5 - Summary: part5/README.md
+  - 4 - Summary: part4/README.md
   - Resources: resources.md
