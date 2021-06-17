@@ -14,7 +14,6 @@ This workshop requires:
 - A laptop/computer with a Web Cam attached
 - Node.js 12.x or 14.x
 - Git
-- Docker Desktop
 
 ## Navigation
 
